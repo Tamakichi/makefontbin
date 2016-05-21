@@ -1,0 +1,15 @@
+このフォルダには、次の14種類のフォント(bdf形式)を配置して下さい。
+10x20a.bdf
+12x24a.bdf
+5x10a.bdf
+jiskan24.bdf
+k20.bdf
+knj10.bdf
+misaki_4x8_iso8859.bdf
+misaki_gothic.bdf
+shnm6x12a.bdf
+shnm7x14a.bdf
+shnm8x16a.bdf
+shnmk12.bdf
+shnmk14.bdf
+shnmk16.bdf
